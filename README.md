@@ -1,5 +1,4 @@
 # thePigGame
-Rules of the game: <br>
 /*
 GAME RULES:
 
